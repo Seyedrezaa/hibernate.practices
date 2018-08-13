@@ -50,4 +50,9 @@ public class User implements Serializable {
     public void setCode(String code) {
         this.code = code;
     }
+
+    @Override
+    public String toString() {
+        return "user info is: ".concat(info);
+    }
 }
