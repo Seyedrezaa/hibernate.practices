@@ -13,6 +13,7 @@ public class HibernateTest {
         User.setInfo("Ramin");
         User.setCode("220");
         //something new has been added
+        //fekr kon ye bande khodaye dgeyi dare ro in project kar mikone va injaro taghir mide va commit mikone !!!!!
 
 
         //User.setId(34L);
