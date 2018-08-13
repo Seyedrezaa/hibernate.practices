@@ -12,6 +12,7 @@ public class HibernateTest {
         User User = new User();
         User.setInfo("Ramin");
         User.setCode("220");
+        //something new has been added
 
 
         //User.setId(34L);
